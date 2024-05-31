@@ -24,7 +24,7 @@ Sou um Analista de Testes QA (Quality Assurance) apaixonado por garantir a quali
 <br><div align="center">
 
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Phablo-Lima&show_icons=true&count_private=true&hide_border=true&title_color=007BFF&icon_color=007BFF&text_color=c9d1d9&bg_color=00000000" alt="Phablo-Lima gitHub stats" >
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phablo-Lima&&show_icons=true&count_private=true&hide_border=true&title_color=007BFF&icon_color=4682B4&text_color=c9d1d9&bg_color=00000000"/>
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phablo-Lima&&show_icons=true&count_private=true&hide_border=true&title_color=007BFF&icon_color=4682B4&text_color=FFFFFF&bg_color=00000000"/>
   
            
 <br><br></div>
