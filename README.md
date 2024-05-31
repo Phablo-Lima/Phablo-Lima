@@ -1,9 +1,5 @@
 ## Olá, Mundo! 👋 Sou Mickaellisson Phablo De Lima Silva
 
-<div align="left">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszq/giphy.gif" width="280" height="180" /> 🤖 + 💻 = ❤️
-</div>
-
 Sou um Analista de Testes QA (Quality Assurance) apaixonado por garantir a qualidade e a robustez de softwares, entregando a melhor experiência para o usuário! 
 
 **Meu objetivo?** Tornar o mundo digital um lugar mais confiável, um teste por vez! 💪
@@ -16,8 +12,8 @@ Sou um Analista de Testes QA (Quality Assurance) apaixonado por garantir a quali
 **Habilidades:**
 
 * **Testes de Software:** Testes Funcionais, Testes de Regressão, Testes de Performance, Testes de API
-* **Linguagens de Programação:** [Em aprendizado - adicione as linguagens que você está estudando para automação]
-* **Ferramentas de Automação:** [Em aprendizado - adicione as ferramentas que você está estudando, ex: Selenium, Cypress, Appium]
+* **Linguagens de Programação:** Em aprendizado - Python, Java, JavaScript
+* **Ferramentas de Automação:** Em aprendizado - Selenium, Cypress, Robot
 * **IA & Machine Learning:**  Familiarizado com os conceitos e aplicações.
 * **Metodologias Ágeis:** Scrum, Kanban
 
@@ -25,21 +21,19 @@ Sou um Analista de Testes QA (Quality Assurance) apaixonado por garantir a quali
 
 ## Estatísticas do GitHub:
 
-<div align="left">
-  <table border="0">
-    <tr>
-      <td><a href="https://github.com/Phablo-Lima"><img src="https://github-readme-stats.vercel.app/api?username=Phablo-Lima&show_icons=true&theme=dark" alt="Anurag's github stats" /></a></td>
-      <td style="width: 100px;"></td> <!-- Célula de espaçamento vazia -->
-      <td><a href="https://github.com/Phablo-Lima"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phablo-Lima&layout=compact&theme=dark" /></a></td> 
-    </tr>
-  </table>
-</div>
+<br><div align="center">
+
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Phablo-Lima&show_icons=true&count_private=true&hide_border=true&title_color=007BFF&icon_color=007BFF&text_color=c9d1d9&bg_color=00000000" alt="Phablo-Lima gitHub stats" >
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phablo-Lima&&show_icons=true&count_private=true&hide_border=true&title_color=007BFF&icon_color=4682B4&text_color=c9d1d9&bg_color=00000000"/>
+  
+           
+<br><br></div>
 
 ## Contribuições
 
 <div align="center">
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Phablo-Lima&theme=dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Phablo-Lima&theme=transparent&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900&hide_border=true&fire=ffff00&currStreakNum=FFFFFF&sideNums=FFFFFF)](https://git.io/streak-stats)
   
 </div>
 
